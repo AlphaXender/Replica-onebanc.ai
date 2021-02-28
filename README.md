@@ -1,2 +1,2 @@
 # Replica-onebanc.ai
-A replica for the onebanc website!
+A replica for the onebanc website Homepage!
